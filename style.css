@@ -13,11 +13,11 @@ main{
 }
 
 /*main*/
-#addition{
+#addition, #subtraction, #subtraction2, #multiplication, #division, #division2{
     text-decoration: none;
-    background-color: aqua;
+    background-color: rgb(18, 99, 99);
     color: azure;
-    font-size: 50px;
+    font-size: 30px;
     margin: 20px;
     text-align: center;
 }
